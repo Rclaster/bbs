@@ -1,6 +1,6 @@
 <?php
 session_start();
-$con = mysql_connect('202.221.137.203', 'hiroki_takeuchi', 'Hiroki19970121');
+$con = mysql_connect('', '', '');
 if (!$con) {
   exit('データベースに接続できませんでした。');
 }
