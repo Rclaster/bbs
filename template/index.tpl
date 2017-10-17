@@ -1,9 +1,9 @@
 <?php
 //データベース接続
-$server = "127.0.0.1";  
-$userName = "hiroki_takeuchi"; 
-$password = "Hiroki19970121"; 
-$dbName = "dev_bbs";
+$server = "";  
+$userName = ""; 
+$password = ""; 
+$dbName = "";
  
 $mysqli = new mysqli($server, $userName, $password,$dbName);
  
