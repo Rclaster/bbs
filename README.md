@@ -2,7 +2,6 @@ BBS作成
 ====
 
 Overview
-
 ## Description
 
 ## Demo
@@ -19,7 +18,7 @@ Overview
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/Rclaster/bbs.git)
 
 ## Author
 
