@@ -6,9 +6,7 @@ if( isset($_SESSION['user']) != "") {
 	header("Location: index.php");
 }
 include_once 'dbconnect.php';
-?>
 
-<?php
 if(isset($_POST['login'])) {
 	$user_name = $mysqli->real_escape_string($_POST['user_name']);
 	$password = $mysqli->real_escape_string($_POST['password']);
